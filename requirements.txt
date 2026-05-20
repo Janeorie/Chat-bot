@@ -1,6 +1,3 @@
 nltk
-SpeechRecognition
-pyttsx3
-pyaudio
 fastapi
 uvicorn[standard]
